@@ -31,7 +31,3 @@ I'm a **Fullstack Developer** with a strong focus on **Frontend Architecture**, 
 ### 🧪 Testing
 ![Testing Skills](https://skillicons.dev/icons?i=jest,vitest)
 
-
----
-
-> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler.
